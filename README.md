@@ -16,9 +16,9 @@
       <ul>
         <li>🎓 <strong>Computer Science undergrad</strong> — diving deep into the world of Data.</li>
         <li>🐍 <strong>Absolute Focus:</strong> Python is my primary weapon for data manipulation, analysis & intelligent systems.</li>
+        <li>🔭 <strong>Currently working on:</strong> An <i>Intelligent Resume Screening & Job Recommendation System</i> to automate text extraction and candidate matching.</li>
+        <li>💻 <strong>Portfolio Additions:</strong> Developing user-centric interfaces, such as the <i>Luxor Smart Watch website</i>, combining clean graphics with solid HCI principles.</li>
         <li>📈 <strong>Continuous Learner:</strong> Building projects from beginner scripts to advanced data pipelines.</li>
-        <li>🌱 Expanding into <strong>Machine Learning & Advanced Analytics</strong> to solve real-world problems.</li>
-        <li>⚡ Fun fact: I have a keen eye for high-end automotive aesthetics and immersive digital setups!</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -29,29 +29,47 @@
 
 ---
 
-### 🐍 Python Dominance — My Core Stack
+### 🛠️ Technical Arsenal
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="35"/>
-</div>
+#### 🔹 Data Science & Backend (Primary Focus)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
+
+#### 🔹 Tools & Environments
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+#### 🔹 Frontend & UI (Familiar With)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 ---
 
-### 📊 GitHub Analytics & Language Bars
+### 📊 Language & Skill Proficiency
 
-Instead of static bars, here are live analytics that track your coding activity! The colorful bar chart below automatically updates based on the code in your repositories.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaibaSaboor07&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaibaSaboor07&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&langs_count=6" height="195" alt="Top Languages" />
-</div>
+| Focus Area | Language / Tech | Proficiency Level | 
+| :--- | :--- | :--- |
+| **Core** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" width="80"/> | `████████░░` 80% |
+| **Core** | <img src="https://img.shields.io/badge/Pandas%20/%20NumPy-2C2D72?style=flat-square&logo=pandas&logoColor=white" width="120"/> | `████████░░` 80% |
+| **Core** | <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" width="70"/> | `███████░░░` 70% |
+| **Secondary** | <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" width="130"/> | `██████░░░░` 60% |
+| **Familiar** | <img src="https://img.shields.io/badge/HTML%20/%20CSS-E34F26?style=flat-square&logo=html5&logoColor=white" width="100"/> | `█████░░░░░` 50% |
+| **Familiar** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="90"/> | `███░░░░░░░` 30% |
 
 ---
 

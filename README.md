@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=LaibaSaboor07&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
 </div>
 
----
+<br>
 
 ### 🚀 About Me & My Journey
 
@@ -18,7 +18,7 @@
         <li>🐍 <strong>Absolute Focus:</strong> Python is my primary weapon for data manipulation, analysis & intelligent systems.</li>
         <li>📈 <strong>Continuous Learner:</strong> Building projects from beginner scripts to advanced data pipelines.</li>
         <li>🌱 Expanding into <strong>Machine Learning & Advanced Analytics</strong> to solve real-world problems.</li>
-        <li>⚡ Fun fact: I have a keen eye for high-end automotive aesthetics and immersive gaming setups!</li>
+        <li>⚡ Fun fact: I have a keen eye for high-end automotive aesthetics and immersive digital setups!</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -32,54 +32,33 @@
 ### 🐍 Python Dominance — My Core Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="45"/>
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="45"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="45"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="45"/>
-  <img src="https://img.shields.io/badge/Data_Analytics-FFCA28?style=for-the-badge&logo=googleanalytics&logoColor=black" height="45"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="35"/>
 </div>
 
 ---
 
-### 📊 Language & Tool Proficiency 
+### 📊 GitHub Analytics & Language Bars
 
-#### 🐍 Most Used Languages
+Instead of static bars, here are live analytics that track your coding activity! The colorful bar chart below automatically updates based on the code in your repositories.
 
-| Language       | Usage | Progress Bar |
-|----------------|-------|--------------|
-| Python         | 78%   | `████████░░` |
-| SQL            | 65%   | `███████░░░` |
-| HTML & CSS     | 45%   | `█████░░░░░` |
-| JavaScript     | 30%   | `███░░░░░░░` |
-| C# / .NET      | 20%   | `██░░░░░░░░` |
-
-#### 🛠️ Tools & Technologies
-
-| Tool / Tech        | Proficiency | Progress Bar |
-|--------------------|-------------|--------------|
-| Pandas             | 85%         | `█████████░` |
-| NumPy              | 80%         | `████████░░` |
-| Scikit-learn       | 70%         | `███████░░░` |
-| Matplotlib/Seaborn | 75%         | `████████░░` |
-| Jupyter            | 80%         | `████████░░` |
-| Git & GitHub       | 50%         | `█████░░░░░` |
-| VS Code            | 70%         | `███████░░░` |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LaibaSaboor07&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaibaSaboor07&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&langs_count=6" height="195" alt="Top Languages" />
+</div>
 
 ---
 
 ### 📂 Repository Structure — My Learning Path
 
-| 🟢 Beginner | 🟡 Intermediate | 🔴 Advanced |
-|------------|----------------|-------------|
+| 🟢 Beginner Track | 🟡 Intermediate Track | 🔴 Advanced Track |
+|:---:|:---:|:---:|
 | Python basics, syntax drills, SQL fundamentals | Mini data projects, visualizations, DBMS | ML models, full ETL pipelines, automation |
 
 ---

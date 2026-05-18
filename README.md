@@ -71,23 +71,23 @@
         <div style="background-color: #4479A1; width: 65%; height: 24px; border-radius: 12px; text-align: right; line-height: 24px; color: white; padding-right: 8px;">65%</div>
       </div>
     </td>
-  </tr>
-  <tr>
+   </tr>
+   <tr>
     <td colspan="2">
       <strong>🌐 HTML & CSS</strong>
       <div style="background-color: #e0e0e0; border-radius: 12px; width: 100%; height: 24px; margin: 6px 0;">
         <div style="background-color: #E34F26; width: 45%; height: 24px; border-radius: 12px; text-align: right; line-height: 24px; color: white; padding-right: 8px;">45%</div>
       </div>
     </td>
-  </tr>
-  <tr>
+   </tr>
+   <tr>
     <td colspan="2">
       <strong>⚡ JavaScript (Basics)</strong>
       <div style="background-color: #e0e0e0; border-radius: 12px; width: 100%; height: 24px; margin: 6px 0;">
         <div style="background-color: #F7DF1E; width: 30%; height: 24px; border-radius: 12px; text-align: right; line-height: 24px; color: black; padding-right: 8px;">30%</div>
       </div>
     </td>
-  </tr>
+   </tr>
 </table>
 
 > 💡 *Real-time breakdown available via the GitHub stats card below.*
@@ -114,7 +114,7 @@
 
 <div align="center">
   <table width="90%">
-    <tr>
+    <table>
       <td><strong>🔥 Commits (2025)</strong></td>
       <td width="70%"><div style="background:#0D1117; border-radius:12px;"><div style="background:#00F0FF; width:78%; border-radius:12px; text-align:center; color:black; font-weight:bold;">214 XP</div></div></td>
     </tr>
@@ -138,6 +138,93 @@
 </div>
 
 <p align="center"><i>XP calculated based on real activity & community engagement. 🧠</i></p>
+
+---
+
+## 📊 Users Insights Dashboard (Python Data Demo)
+
+*Example analytics dashboard — similar to real-world business intelligence reports*
+
+### 👥 Registered Users (Last 10 days)
+
+| Date     | New Users | Trend (bar) |
+|----------|-----------|--------------|
+| 02 Jan   | 245       | <div style="background:#e0e0e0; border-radius:8px; width:100%;"><div style="background:#00F0FF; width:49%; border-radius:8px; text-align:center;">245</div></div> |
+| 03 Jan   | 312       | <div style="background:#e0e0e0; border-radius:8px;"><div style="background:#00F0FF; width:62%; border-radius:8px; text-align:center;">312</div></div> |
+| 04 Jan   | 398       | <div style="background:#e0e0e0; border-radius:8px;"><div style="background:#00F0FF; width:80%; border-radius:8px; text-align:center;">398</div></div> |
+| 05 Jan   | 476       | <div style="background:#e0e0e0; border-radius:8px;"><div style="background:#00F0FF; width:95%; border-radius:8px; text-align:center;">476</div></div> |
+| 06 Jan   | 502       | <div style="background:#e0e0e0; border-radius:8px;"><div style="background:#00F0FF; width:100%; border-radius:8px; text-align:center;">502</div></div> |
+| 07 Jan   | 489       | <div style="background:#e0e0e0; border-radius:8px;"><div style="background:#00F0FF; width:98%; border-radius:8px; text-align:center;">489</div></div> |
+| 08 Jan   | 421       | <div style="background:#e0e0e0; border-radius:8px;"><div style="background:#00F0FF; width:84%; border-radius:8px; text-align:center;">421</div></div> |
+| 09 Jan   | 367       | <div style="background:#e0e0e0; border-radius:8px;"><div style="background:#00F0FF; width:73%; border-radius:8px; text-align:center;">367</div></div> |
+| 10 Jan   | 294       | <div style="background:#e0e0e0; border-radius:8px;"><div style="background:#00F0FF; width:59%; border-radius:8px; text-align:center;">294</div></div> |
+| 11 Jan   | 210       | <div style="background:#e0e0e0; border-radius:8px;"><div style="background:#00F0FF; width:42%; border-radius:8px; text-align:center;">210</div></div> |
+| 12 Jan   | 178       | <div style="background:#e0e0e0; border-radius:8px;"><div style="background:#00F0FF; width:36%; border-radius:8px; text-align:center;">178</div></div> |
+
+---
+
+### 🧑‍🤝‍🧑 User Groups (by engagement)
+
+| Group   | % of total | Bar                                         |
+|---------|------------|---------------------------------------------|
+| Loyal   | 34%        | <div style="background:#4CAF50; width:34%; text-align:center; border-radius:8px;">34%</div> |
+| Active  | 28%        | <div style="background:#2196F3; width:28%; text-align:center; border-radius:8px;">28%</div> |
+| Team    | 18%        | <div style="background:#FF9800; width:18%; text-align:center; border-radius:8px;">18%</div> |
+| Partner | 12%        | <div style="background:#9C27B0; width:12%; text-align:center; border-radius:8px;">12%</div> |
+| Lead    | 8%         | <div style="background:#F44336; width:8%; text-align:center; border-radius:8px;">8%</div> |
+
+---
+
+### 🌍 Top User Countries
+
+| Country        | % share | Map-style bar                      |
+|----------------|---------|------------------------------------|
+| United States  | 22%     | <div style="background:#00F0FF; width:22%;">22%</div> |
+| Germany        | 16%     | <div style="background:#00F0FF; width:16%;">16%</div> |
+| France         | 12%     | <div style="background:#00F0FF; width:12%;">12%</div> |
+| United Kingdom | 10%     | <div style="background:#00F0FF; width:10%;">10%</div> |
+| India          | 9%      | <div style="background:#00F0FF; width:9%;">9%</div> |
+| China          | 8%      | <div style="background:#00F0FF; width:8%;">8%</div> |
+| Brazil         | 7%      | <div style="background:#00F0FF; width:7%;">7%</div> |
+| Russia         | 6%      | <div style="background:#00F0FF; width:6%;">6%</div> |
+| Spain          | 5%      | <div style="background:#00F0FF; width:5%;">5%</div> |
+| Italy          | 5%      | <div style="background:#00F0FF; width:5%;">5%</div> |
+
+---
+
+### 🏙️ Top User Cities
+
+| City       | % of total |
+|------------|------------|
+| London     | 8.2%       |
+| New York   | 7.9%       |
+| Paris      | 6.5%       |
+| Tokyo      | 5.4%       |
+| Seoul      | 4.8%       |
+| Mumbai     | 4.3%       |
+| Shanghai   | 4.1%       |
+| Berlin     | 3.9%       |
+| Moscow     | 3.5%       |
+| Frankfurt  | 3.2%       |
+
+---
+
+### 🖥️ Browser & Platform Distribution
+
+**Browsers**  
+- Chrome: <div style="background:#e0e0e0; width:100%; border-radius:8px;"><div style="background:#00F0FF; width:64%;">64%</div></div>
+- Firefox: <div style="background:#e0e0e0; width:100%; border-radius:8px;"><div style="background:#00F0FF; width:21%;">21%</div></div>
+- Safari:  <div style="background:#e0e0e0; width:100%; border-radius:8px;"><div style="background:#00F0FF; width:11%;">11%</div></div>
+- Internet Explorer: <div style="background:#e0e0e0; width:100%; border-radius:8px;"><div style="background:#00F0FF; width:4%;">4%</div></div>
+
+**Platforms**  
+- Windows: <div style="background:#e0e0e0; width:100%; border-radius:8px;"><div style="background:#00F0FF; width:45%;">45%</div></div>
+- Android: <div style="background:#e0e0e0; width:100%; border-radius:8px;"><div style="background:#00F0FF; width:28%;">28%</div></div>
+- iPhone:  <div style="background:#e0e0e0; width:100%; border-radius:8px;"><div style="background:#00F0FF; width:15%;">15%</div></div>
+- Apple (Mac): <div style="background:#e0e0e0; width:100%; border-radius:8px;"><div style="background:#00F0FF; width:9%;">9%</div></div>
+- Linux:   <div style="background:#e0e0e0; width:100%; border-radius:8px;"><div style="background:#00F0FF; width:3%;">3%</div></div>
+
+> 🧪 *This dashboard is a Python + Pandas prototype — all data is simulated to show my data visualization style.*
 
 ---
 

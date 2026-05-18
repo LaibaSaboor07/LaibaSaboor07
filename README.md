@@ -64,12 +64,12 @@
 
 | Focus Area | Language / Tech | Proficiency Level | 
 | :--- | :--- | :--- |
-| **Core** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" width="80"/> | `████████░░` 80% |
-| **Core** | <img src="https://img.shields.io/badge/Pandas%20/%20NumPy-2C2D72?style=flat-square&logo=pandas&logoColor=white" width="120"/> | `████████░░` 80% |
-| **Core** | <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" width="70"/> | `███████░░░` 70% |
-| **Secondary** | <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" width="130"/> | `██████░░░░` 60% |
-| **Familiar** | <img src="https://img.shields.io/badge/HTML%20/%20CSS-E34F26?style=flat-square&logo=html5&logoColor=white" width="100"/> | `█████░░░░░` 50% |
-| **Familiar** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="90"/> | `███░░░░░░░` 30% |
+| **Core** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" width="80"/> | 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 80% |
+| **Core** | <img src="https://img.shields.io/badge/Pandas%20/%20NumPy-2C2D72?style=flat-square&logo=pandas&logoColor=white" width="120"/> | 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ 80% |
+| **Core** | <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" width="70"/> | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 70% |
+| **Secondary** | <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" width="130"/> | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ 60% |
+| **Familiar** | <img src="https://img.shields.io/badge/HTML%20/%20CSS-E34F26?style=flat-square&logo=html5&logoColor=white" width="100"/> | 🟥🟥🟥🟥🟥⬜⬜⬜⬜⬜ 50% |
+| **Familiar** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="90"/> | 🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 30% |
 
 ---
 
